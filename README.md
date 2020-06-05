@@ -1,4 +1,4 @@
-# check
+# project name: qixing
 
 ## Project setup
 ```
